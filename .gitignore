@@ -1,3 +1,7 @@
 .idea
 *.iml
 .ipynb_checkpoints
+*/fashion_minst_cnn/*.csv
+*/fashion_minst_mlp/*.csv
+*/fashion_minst_mlp_optimizers/*.csv
+__pycache__
